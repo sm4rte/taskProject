@@ -1,0 +1,34 @@
+2023-08-09 21:51:59,170 [main] INFO  Account:13 - Created account: ID= A1, Money = 10000
+2023-08-09 21:51:59,173 [main] INFO  Account:13 - Created account: ID= A2, Money = 10000
+2023-08-09 21:51:59,173 [main] INFO  Account:13 - Created account: ID= A3, Money = 10000
+2023-08-09 21:51:59,173 [main] INFO  Account:13 - Created account: ID= A4, Money = 10000
+2023-08-09 21:52:00,510 [Thread-2] INFO  Transaction:20 - Transaction initiated: Transfer 306$ from Account A3 to Account A4
+2023-08-09 21:52:01,028 [Thread-1] INFO  Transaction:20 - Transaction initiated: Transfer 972$ from Account A1 to Account A2
+2023-08-09 21:52:02,165 [Thread-3] INFO  Transaction:20 - Transaction initiated: Transfer 960$ from Account A1 to Account A2
+2023-08-09 21:52:02,448 [Thread-4] INFO  Transaction:20 - Transaction initiated: Transfer 844$ from Account A3 to Account A4
+2023-08-09 21:52:03,462 [Thread-5] INFO  Transaction:20 - Transaction initiated: Transfer 45$ from Account A1 to Account A2
+2023-08-09 21:52:04,310 [Thread-6] INFO  Transaction:20 - Transaction initiated: Transfer 720$ from Account A3 to Account A4
+2023-08-09 21:52:05,564 [Thread-7] INFO  Transaction:20 - Transaction initiated: Transfer 96$ from Account A1 to Account A2
+2023-08-09 21:52:05,991 [Thread-8] INFO  Transaction:20 - Transaction initiated: Transfer 578$ from Account A3 to Account A4
+2023-08-09 21:52:07,265 [Thread-10] INFO  Transaction:20 - Transaction initiated: Transfer 2$ from Account A3 to Account A4
+2023-08-09 21:52:07,511 [Thread-9] INFO  Transaction:20 - Transaction initiated: Transfer 483$ from Account A1 to Account A2
+2023-08-09 21:52:09,047 [Thread-12] INFO  Transaction:20 - Transaction initiated: Transfer 894$ from Account A3 to Account A4
+2023-08-09 21:52:09,368 [Thread-11] INFO  Transaction:20 - Transaction initiated: Transfer 401$ from Account A1 to Account A2
+2023-08-09 21:52:10,732 [Thread-13] INFO  Transaction:20 - Transaction initiated: Transfer 11$ from Account A1 to Account A2
+2023-08-09 21:52:11,281 [Thread-14] INFO  Transaction:20 - Transaction initiated: Transfer 892$ from Account A3 to Account A4
+2023-08-09 21:52:12,502 [Thread-16] INFO  Transaction:20 - Transaction initiated: Transfer 158$ from Account A3 to Account A4
+2023-08-09 21:52:12,915 [Thread-15] INFO  Transaction:20 - Transaction initiated: Transfer 826$ from Account A1 to Account A2
+2023-08-09 21:52:14,450 [Thread-17] INFO  Transaction:20 - Transaction initiated: Transfer 977$ from Account A1 to Account A2
+2023-08-09 21:52:14,543 [Thread-18] INFO  Transaction:20 - Transaction initiated: Transfer 274$ from Account A3 to Account A4
+2023-08-09 21:52:15,566 [Thread-20] INFO  Transaction:20 - Transaction initiated: Transfer 147$ from Account A3 to Account A4
+2023-08-09 21:52:15,690 [Thread-19] INFO  Transaction:20 - Transaction initiated: Transfer 586$ from Account A1 to Account A2
+2023-08-09 21:52:16,724 [Thread-21] INFO  Transaction:20 - Transaction initiated: Transfer 823$ from Account A1 to Account A2
+2023-08-09 21:52:17,379 [Thread-22] INFO  Transaction:20 - Transaction initiated: Transfer 266$ from Account A3 to Account A4
+2023-08-09 21:52:18,576 [Thread-24] INFO  Transaction:20 - Transaction initiated: Transfer 146$ from Account A3 to Account A4
+2023-08-09 21:52:19,192 [Thread-23] INFO  Transaction:20 - Transaction initiated: Transfer 349$ from Account A1 to Account A2
+2023-08-09 21:52:20,625 [Thread-26] INFO  Transaction:20 - Transaction initiated: Transfer 850$ from Account A3 to Account A4
+2023-08-09 21:52:20,655 [Thread-25] INFO  Transaction:20 - Transaction initiated: Transfer 285$ from Account A1 to Account A2
+2023-08-09 21:52:21,657 [Thread-27] INFO  Transaction:20 - Transaction initiated: Transfer 634$ from Account A1 to Account A2
+2023-08-09 21:52:22,238 [Thread-28] INFO  Transaction:20 - Transaction initiated: Transfer 854$ from Account A3 to Account A4
+2023-08-09 21:52:23,321 [Thread-29] INFO  Transaction:20 - Transaction initiated: Transfer 975$ from Account A1 to Account A2
+2023-08-09 21:52:23,607 [Thread-30] INFO  Transaction:20 - Transaction initiated: Transfer 983$ from Account A3 to Account A4
